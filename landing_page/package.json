@@ -8,7 +8,7 @@
     "newage-react-datetime-improved": "^1.0.11",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17",
+    "react-scripts": "5.0.1",
     "react-scroll": "^1.7.3",
     "simple-line-icons": "^2.4.1"
   },
